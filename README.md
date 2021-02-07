@@ -1,6 +1,10 @@
 # coding-challenges
 
-My solutions to coding challenges
+My solutions to some coding challenges
+
+## algoexpert
+
+- [Shift Linked List](https://github.com/scaserini/coding-challenges/blob/main/algoexpert/hard/shift-linked-list.js) - [hard](https://www.algoexpert.io/questions/Shift%20Linked%20List)
 
 ## codewars
 
