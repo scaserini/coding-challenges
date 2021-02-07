@@ -5,6 +5,7 @@ My solutions to some coding challenges
 ## algoexpert
 
 - [Shift Linked List](https://github.com/scaserini/coding-challenges/blob/main/algoexpert/hard/shift-linked-list.js) - [Hard](https://www.algoexpert.io/questions/Shift%20Linked%20List)
+- [River Sizes](https://github.com/scaserini/coding-challenges/blob/main/algoexpert/medium/river-sizes.js) - [Medium](https://www.algoexpert.io/questions/River%20Sizes)
 
 ## codewars
 
