@@ -14,3 +14,7 @@ My solutions to some coding challenges
 - [Validate Sudoku with size `NxN`](https://github.com/scaserini/coding-challenges/blob/main/codewars/4_kyu/validate-sudoku-with-size-nxn.js) - [4 kyu](https://www.codewars.com/kata/540afbe2dc9f615d5e000425)
 - [Count IP Addresses](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/count-ip-addresses.js) - [5 kyu](https://www.codewars.com/kata/526989a41034285187000de4)
 - [Valid Parentheses](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/valid-parentheses.js) - [5 kyu](https://www.codewars.com/kata/52774a314c2333f0a7000688)
+
+## leetcode
+
+- [Minimum Falling Path Sum II](https://github.com/scaserini/coding-challenges/blob/main/leetcode/hard/minimum-falling-path-sum-ii.js) - [Hard](https://leetcode.com/problems/minimum-falling-path-sum-ii/)
