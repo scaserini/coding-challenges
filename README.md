@@ -19,3 +19,4 @@ My solutions to some coding challenges
 
 - [Minimum Falling Path Sum II](https://github.com/scaserini/coding-challenges/blob/main/leetcode/hard/minimum-falling-path-sum-ii.js) - [Hard](https://leetcode.com/problems/minimum-falling-path-sum-ii/)
 - [Unique Paths](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/unique-paths.js) - [Medium](https://leetcode.com/problems/unique-paths/)
+- [Merge Intervals](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/merge-intervals.js) - [Medium](https://leetcode.com/problems/merge-intervals/)
