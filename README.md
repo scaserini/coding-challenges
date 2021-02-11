@@ -21,3 +21,4 @@ My solutions to some coding challenges
 - [Unique Paths](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/unique-paths.js) - [Medium](https://leetcode.com/problems/unique-paths/)
 - [Merge Intervals](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/merge-intervals.js) - [Medium](https://leetcode.com/problems/merge-intervals/)
 - [Reverse Linked List II](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/reverse-linked-list-ii.js) - [Medium](https://leetcode.com/problems/reverse-linked-list-ii/)
+- [Minimum Size Subarray Sum](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/minimum-size-subarray-sum.js) - [Medium](https://leetcode.com/problems/minimum-size-subarray-sum/)
