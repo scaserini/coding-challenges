@@ -23,3 +23,4 @@ My solutions to some coding challenges
 - [Reverse Linked List II](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/reverse-linked-list-ii.js) - [Medium](https://leetcode.com/problems/reverse-linked-list-ii/)
 - [Minimum Size Subarray Sum](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/minimum-size-subarray-sum.js) - [Medium](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [Subarray Product Less Than K](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/subarray-product-less-than-k.js) - [Medium](https://leetcode.com/problems/subarray-product-less-than-k/)
+- [3Sum](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/3sum.js) - [Medium](https://leetcode.com/problems/3sum/)
