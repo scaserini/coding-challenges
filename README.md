@@ -16,6 +16,7 @@ My solutions to some coding challenges
 - [Permutations](https://github.com/scaserini/coding-challenges/blob/main/codewars/4_kyu/permutations.js) - [4 kyu](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
 - [Remove Zeros](https://github.com/scaserini/coding-challenges/blob/main/codewars/4_kyu/remove-zeros.js) - [4 kyu](https://www.codewars.com/kata/52aae14aa7fd03d57400058f)
 - [Strip Comments](https://github.com/scaserini/coding-challenges/blob/main/codewars/4_kyu/strip-comments.js) - [4 kyu](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
+- [Find all possible number combos that sum to a number](https://github.com/scaserini/coding-challenges/blob/main/codewars/4_kyu/find-all-possible-number-combos-that-sum-to-a-number.js) - [4 kyu](https://www.codewars.com/kata/555b1890a75b930e63000023)
 - [Count IP Addresses](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/count-ip-addresses.js) - [5 kyu](https://www.codewars.com/kata/526989a41034285187000de4)
 - [Valid Parentheses](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/valid-parentheses.js) - [5 kyu](https://www.codewars.com/kata/52774a314c2333f0a7000688)
 - [Regex Password Validation](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/regex-password-validation.js) - [5 kyu](https://www.codewars.com/kata/52e1476c8147a7547a000811)
