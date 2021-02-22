@@ -1,4 +1,3 @@
-// ~800ms solution
 function combos(n) {
   return combosRecursive(n, n, []);
 }
