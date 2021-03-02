@@ -34,3 +34,4 @@ My solutions to some coding challenges
 - [3Sum](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/3sum.js) - [Medium](https://leetcode.com/problems/3sum/)
 - [Game of Life](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/game-of-life.js) - [Medium](https://leetcode.com/problems/game-of-life/)
 - [Unique Paths II](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/unique-paths-ii.js) - [Medium](https://leetcode.com/problems/unique-paths-ii/)
+- [Triangle](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/triangle.js) - [Medium](https://leetcode.com/problems/triangle/)
