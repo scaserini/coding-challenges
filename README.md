@@ -35,3 +35,4 @@ My solutions to some coding challenges
 - [Game of Life](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/game-of-life.js) - [Medium](https://leetcode.com/problems/game-of-life/)
 - [Unique Paths II](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/unique-paths-ii.js) - [Medium](https://leetcode.com/problems/unique-paths-ii/)
 - [Triangle](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/triangle.js) - [Medium](https://leetcode.com/problems/triangle/)
+- [Longest Common Subsequence](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/longest-common-subsequence.js) - [Medium](https://leetcode.com/problems/longest-common-subsequence/)
