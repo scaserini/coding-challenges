@@ -36,3 +36,4 @@ My solutions to some coding challenges
 - [Unique Paths II](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/unique-paths-ii.js) - [Medium](https://leetcode.com/problems/unique-paths-ii/)
 - [Triangle](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/triangle.js) - [Medium](https://leetcode.com/problems/triangle/)
 - [Longest Common Subsequence](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/longest-common-subsequence.js) - [Medium](https://leetcode.com/problems/longest-common-subsequence/)
+- [Count Sorted Vowel Strings](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/count-sorted-vowel-strings.js) - [Medium](https://leetcode.com/problems/count-sorted-vowel-strings/)
