@@ -4,22 +4,22 @@
  */
 var getFolderNames = function (names) {
   let map = {};
-  let result = [];
+  let resultNames = [];
 
   for (let name of names) {
     if (!map[name]) {
       map[name] = 1;
-      result.push(name);
+      resultNames.push(name);
     } else {
       let newName = name;
       while (map[newName]) {
         newName = name + '(' + map[name] + ')';
         map[name]++;
       }
-      result.push(newName);
+      resultNames.push(newName);
       map[newName] = 1;
     }
   }
 
-  return result;
+  return resultNames;
 };
