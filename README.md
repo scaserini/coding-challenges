@@ -40,3 +40,4 @@ My solutions to some coding challenges
 - [Count Square Submatrices with All Ones](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/count-square-submatrices-with-all-ones.js) - [Medium](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
 - [Maximal Square](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/maximal-square.js) - [Medium](https://leetcode.com/problems/maximal-square/)
 - [Maximum Length of Repeated Subarray](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/maximum-length-of-repeated-subarray.js) - [Medium](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
+- [Making File Names Unique](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/making-file-names-unique.js) - [Medium](https://leetcode.com/problems/making-file-names-unique/)
