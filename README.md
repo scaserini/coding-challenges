@@ -43,3 +43,4 @@ My solutions to some coding challenges
 - [Making File Names Unique](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/making-file-names-unique.js) - [Medium](https://leetcode.com/problems/making-file-names-unique/)
 - [Insert Interval](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/insert-interval.js) - [Medium](https://leetcode.com/problems/insert-interval/)
 - [Search Suggestions System](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/search-suggestions-system.js) - [Medium](https://leetcode.com/problems/search-suggestions-system/)
+- [Longest ZigZag Path in a Binary Tree](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/longest-zigzag-path-in-a-binary-tree.js) - [Medium](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)
