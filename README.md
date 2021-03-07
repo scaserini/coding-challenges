@@ -42,3 +42,4 @@ My solutions to some coding challenges
 - [Maximum Length of Repeated Subarray](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/maximum-length-of-repeated-subarray.js) - [Medium](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 - [Making File Names Unique](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/making-file-names-unique.js) - [Medium](https://leetcode.com/problems/making-file-names-unique/)
 - [Insert Interval](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/insert-interval.js) - [Medium](https://leetcode.com/problems/insert-interval/)
+- [Search Suggestions System](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/search-suggestions-system.js) - [Medium](https://leetcode.com/problems/search-suggestions-system/)
