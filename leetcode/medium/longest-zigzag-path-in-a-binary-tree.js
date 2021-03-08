@@ -49,20 +49,18 @@ var longestZigZag = function (root) {
  */
 var longestZigZag = function (root) {
   let res = { max: 0 };
-  longestZigZagRecursive(root, 0, '', res);
+  root.left && longestZigZagRecursive(root.left, 1, 'left', res);
+  root.right && longestZigZagRecursive(root.right, 1, 'right', res);
   return res.max;
 };
 
-const longestZigZagRecursive = (root, cur = 0, direction = '', res) => {
+const longestZigZagRecursive = (root, cur, direction, res) => {
   if (cur > res.max) {
     res.max = cur;
   }
 
   for (let dir of ['left', 'right']) {
-    if (direction == '') {
-      root.left && longestZigZagRecursive(root.left, 1, 'left', res);
-      root.right && longestZigZagRecursive(root.right, 1, 'right', res);
-    } else if ((direction == 'left' && dir == 'left') || (direction == 'right' && dir == 'right')) {
+    if ((direction == 'left' && dir == 'left') || (direction == 'right' && dir == 'right')) {
       root[dir] && longestZigZagRecursive(root[dir], 1, dir, res);
     } else {
       root[dir] && longestZigZagRecursive(root[dir], 1 + cur, dir, res);
