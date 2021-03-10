@@ -28,15 +28,10 @@ var recoverFromPreorder = function (S) {
         }
       }
       let node = new TreeNode(s[indx]);
-      if (currentNode.left) {
-        currentNode.right = node;
-        stack.push(currentNode);
-        currentNode = currentNode.right;
-      } else {
-        currentNode.left = node;
-        stack.push(currentNode);
-        currentNode = currentNode.left;
-      }
+      let child = currentNode.left ? 'right' : 'left';
+      currentNode[child] = node;
+      stack.push(currentNode);
+      currentNode = currentNode[child];
       currentLevel++;
       nextLevel = 1;
     } else {
