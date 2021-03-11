@@ -46,3 +46,4 @@ My solutions to some coding challenges
 - [Search Suggestions System](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/search-suggestions-system.js) - [Medium](https://leetcode.com/problems/search-suggestions-system/)
 - [Longest ZigZag Path in a Binary Tree](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/longest-zigzag-path-in-a-binary-tree.js) - [Medium](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)
 - [Binary Tree Level Order Traversal](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/binary-tree-level-order-traversal.js) - [Medium](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [Binary Tree Level Order Traversal II](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/binary-tree-level-order-traversal-ii.js) - [Medium](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
