@@ -45,3 +45,4 @@ My solutions to some coding challenges
 - [Insert Interval](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/insert-interval.js) - [Medium](https://leetcode.com/problems/insert-interval/)
 - [Search Suggestions System](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/search-suggestions-system.js) - [Medium](https://leetcode.com/problems/search-suggestions-system/)
 - [Longest ZigZag Path in a Binary Tree](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/longest-zigzag-path-in-a-binary-tree.js) - [Medium](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)
+- [Binary Tree Level Order Traversal](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/binary-tree-level-order-traversal.js) - [Medium](https://leetcode.com/problems/binary-tree-level-order-traversal/)
