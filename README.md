@@ -11,7 +11,7 @@ My solutions to some coding challenges
 
 - [Calculator](https://github.com/scaserini/coding-challenges/blob/main/codewars/3_kyu/calculator.js) - [3 kyu](https://www.codewars.com/kata/5235c913397cbf2508000048)
 - [Snail](https://github.com/scaserini/coding-challenges/blob/main/codewars/4_kyu/snail.js) - [4 kyu](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
-- [Validate Sudoku with size `NxN`](https://github.com/scaserini/coding-challenges/blob/main/codewars/4_kyu/validate-sudoku-with-size-nxn.js) - [4 kyu](https://www.codewars.com/kata/540afbe2dc9f615d5e000425)
+- [Validate Sudoku with size NxN](https://github.com/scaserini/coding-challenges/blob/main/codewars/4_kyu/validate-sudoku-with-size-nxn.js) - [4 kyu](https://www.codewars.com/kata/540afbe2dc9f615d5e000425)
 - [Nesting Structure Comparison](https://github.com/scaserini/coding-challenges/blob/main/codewars/4_kyu/nesting-structure-comparison.js) - [4 kyu](https://www.codewars.com/kata/520446778469526ec0000001)
 - [Permutations](https://github.com/scaserini/coding-challenges/blob/main/codewars/4_kyu/permutations.js) - [4 kyu](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
 - [Remove Zeros](https://github.com/scaserini/coding-challenges/blob/main/codewars/4_kyu/remove-zeros.js) - [4 kyu](https://www.codewars.com/kata/52aae14aa7fd03d57400058f)
