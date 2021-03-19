@@ -49,4 +49,5 @@ My solutions to some coding challenges
 - [Binary Tree Level Order Traversal](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/binary-tree-level-order-traversal.js) - [Medium](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [Binary Tree Level Order Traversal II](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/binary-tree-level-order-traversal-ii.js) - [Medium](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 - [Keys and Rooms](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/keys-and-rooms.js) - [Medium](https://leetcode.com/problems/keys-and-rooms/)
+- [Reconstruct Itinerary](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/reconstruct-itinerary.js) - [Medium](https://leetcode.com/problems/reconstruct-itinerary/)
 - [Best Time to Buy and Sell Stock](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/best-time-to-buy-and-sell-stock.js) - [Easy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
