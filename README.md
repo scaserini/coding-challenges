@@ -53,4 +53,5 @@ My solutions to some coding challenges
 - [Keys and Rooms](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/keys-and-rooms.js) - [Medium](https://leetcode.com/problems/keys-and-rooms/)
 - [Reconstruct Itinerary](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/reconstruct-itinerary.js) - [Medium](https://leetcode.com/problems/reconstruct-itinerary/)
 - [Longest Substring Without Repeating Characters](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/longest-substring-without-repeating-characters.js) - [Medium](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [Number of Islands](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/number-of-islands.js) - [Medium](https://leetcode.com/problems/number-of-islands/)
 - [Best Time to Buy and Sell Stock](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/best-time-to-buy-and-sell-stock.js) - [Easy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
