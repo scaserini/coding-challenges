@@ -56,3 +56,4 @@ My solutions to some coding challenges
 - [Number of Islands](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/number-of-islands.js) - [Medium](https://leetcode.com/problems/number-of-islands/)
 - [Max Area of Island](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/max-area-of-island.js) - [Medium](https://leetcode.com/problems/max-area-of-island/)
 - [Best Time to Buy and Sell Stock](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/best-time-to-buy-and-sell-stock.js) - [Easy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [Reverse Linked List](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/reverse-linked-list.js) - [Easy](https://leetcode.com/problems/reverse-linked-list/)
