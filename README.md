@@ -55,5 +55,6 @@ My solutions to some coding challenges
 - [Longest Substring Without Repeating Characters](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/longest-substring-without-repeating-characters.js) - [Medium](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [Number of Islands](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/number-of-islands.js) - [Medium](https://leetcode.com/problems/number-of-islands/)
 - [Max Area of Island](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/max-area-of-island.js) - [Medium](https://leetcode.com/problems/max-area-of-island/)
+- [Swapping Nodes in a Linked List](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/swapping-nodes-in-a-linked-list.js) - [Medium](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 - [Best Time to Buy and Sell Stock](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/best-time-to-buy-and-sell-stock.js) - [Easy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [Reverse Linked List](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/reverse-linked-list.js) - [Easy](https://leetcode.com/problems/reverse-linked-list/)
