@@ -41,7 +41,8 @@ function dfs(adjList, course, visited) {
       }
     }
   }
-
+  
+  // then, mark nodes with 1 (previously visited)
   visited[course] = 1;
   return true;
 }
