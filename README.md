@@ -58,5 +58,6 @@ My solutions to some coding challenges
 - [Swapping Nodes in a Linked List](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/swapping-nodes-in-a-linked-list.js) - [Medium](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 - [Course Schedule](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/course-schedule.js) - [Medium](https://leetcode.com/problems/course-schedule/)
 - [Repeated DNA Sequences](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/repeated-dna-sequences.js) - [Medium](https://leetcode.com/problems/repeated-dna-sequences/)
+- [Lowest Common Ancestor of a Binary Tree](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/lowest-common-ancestor-of-a-binary-tree.js) - [Medium](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [Best Time to Buy and Sell Stock](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/best-time-to-buy-and-sell-stock.js) - [Easy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [Reverse Linked List](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/reverse-linked-list.js) - [Easy](https://leetcode.com/problems/reverse-linked-list/)
