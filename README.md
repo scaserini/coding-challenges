@@ -1,6 +1,6 @@
 # coding-challenges
 
-My solutions to some coding challenges
+My solutions to some coding challenges.
 
 ## algoexpert
 
