@@ -66,3 +66,4 @@ My solutions to some coding challenges
 - [Combinations](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/combinations.js) - [Medium](https://leetcode.com/problems/combinations/)
 - [Best Time to Buy and Sell Stock](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/best-time-to-buy-and-sell-stock.js) - [Easy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [Reverse Linked List](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/reverse-linked-list.js) - [Easy](https://leetcode.com/problems/reverse-linked-list/)
+- [Longest Common Prefix](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/longest-common-prefix.js) - [Easy](https://leetcode.com/problems/longest-common-prefix/)
