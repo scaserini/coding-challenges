@@ -68,6 +68,7 @@ My solutions to some coding challenges
 - [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/construct-binary-tree-from-inorder-and-postorder-traversal.js) - [Medium](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 - [Letter Combinations of a Phone Number](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/letter-combinations-of-a-phone-number.js) - [Medium](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - [Coin Change](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/coin-change.js) - [Medium](https://leetcode.com/problems/coin-change/)
+- [Longest Increasing Subsequence](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/longest-increasing-subsequence.js) - [Medium](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [Best Time to Buy and Sell Stock](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/best-time-to-buy-and-sell-stock.js) - [Easy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [Reverse Linked List](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/reverse-linked-list.js) - [Easy](https://leetcode.com/problems/reverse-linked-list/)
 - [Longest Common Prefix](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/longest-common-prefix.js) - [Easy](https://leetcode.com/problems/longest-common-prefix/)
