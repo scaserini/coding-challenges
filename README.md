@@ -30,6 +30,7 @@ My solutions to some coding challenges
 - [Maximum Profit in Job Scheduling](https://github.com/scaserini/coding-challenges/blob/main/leetcode/hard/maximum-profit-in-job-scheduling.js) - [Hard](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
 - [N-Queens II](https://github.com/scaserini/coding-challenges/blob/main/leetcode/hard/n-queens-ii.js) - [Hard](https://leetcode.com/problems/n-queens-ii/)
 - [N-Queens](https://github.com/scaserini/coding-challenges/blob/main/leetcode/hard/n-queens.js) - [Hard](https://leetcode.com/problems/n-queens/)
+- [Edit Distance](https://github.com/scaserini/coding-challenges/blob/main/leetcode/hard/edit-distance.js) - [Hard](https://leetcode.com/problems/edit-distance/)
 - [Unique Paths](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/unique-paths.js) - [Medium](https://leetcode.com/problems/unique-paths/)
 - [Merge Intervals](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/merge-intervals.js) - [Medium](https://leetcode.com/problems/merge-intervals/)
 - [Reverse Linked List II](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/reverse-linked-list-ii.js) - [Medium](https://leetcode.com/problems/reverse-linked-list-ii/)
