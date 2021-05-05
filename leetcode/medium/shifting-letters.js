@@ -21,8 +21,7 @@ var shiftingLetters = function (S, shifts) {
         - 'c' shifted by 9 positions
     */
     if (i > 0) amountToShift = amountToShift - shifts[i - 1];
-    let curAmountToShift = amountToShift % numberOfAlphabetLetters;
-    let resultCharCode = curLetterCharCode + curAmountToShift;
+    let resultCharCode = curLetterCharCode + (amountToShift % numberOfAlphabetLetters);
     resultCharCode = resultCharCode > zCharCode ? aCharCode + (resultCharCode % zCharCode) - 1 : resultCharCode;
     result.push(String.fromCharCode(resultCharCode));
   }
