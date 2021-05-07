@@ -1,4 +1,46 @@
 /**
+ * More elegant solution with DFS
+ * O(mxn) time complexity
+ * O(mxn) space complexity
+ */
+function riverSizes(matrix) {
+  let rows = matrix.length;
+  let cols = matrix[0].length;
+  let visited = Array(rows)
+    .fill()
+    .map(() => Array(cols).fill(false));
+  let rivers = [];
+
+  for (let i = 0; i < rows; i++) {
+    for (let j = 0; j < cols; j++) {
+      if (matrix[i][j] === 0 || visited[i][j]) continue;
+      rivers.push(dfs(matrix, i, j, visited));
+    }
+  }
+  return rivers;
+}
+
+function dfs(matrix, row, col, visited) {
+  if (isIndexOutOfBound(matrix, row, col)) return 0;
+  if (matrix[row][col] === 0 || visited[row][col]) return 0;
+  visited[row][col] = true;
+  return (
+    1 +
+    dfs(matrix, row - 1, col, visited) +
+    dfs(matrix, row, col + 1, visited) +
+    dfs(matrix, row + 1, col, visited) +
+    dfs(matrix, row, col - 1, visited)
+  );
+}
+
+function isIndexOutOfBound(matrix, row, col) {
+  return row < 0 || col < 0 || row >= matrix.length || col >= matrix[0].length;
+}
+
+// Do not edit the line below.
+exports.riverSizes = riverSizes;
+
+/**
  * O(mxn) time complexity
  * O(1) space complexity
  */
