@@ -74,6 +74,7 @@ My solutions to some coding challenges:
 - [Subarray Sum Equals K](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/subarray-sum-equals-k.js) - [Medium](https://leetcode.com/problems/subarray-sum-equals-k/)
 - [Max Number of K-Sum Pairs](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/max-number-of-k-sum-pairs.js) - [Medium](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
 - [Shifting Letters](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/shifting-letters.js) - [Medium](https://leetcode.com/problems/shifting-letters/)
+- [Insert into a Binary Search Tree](https://github.com/scaserini/coding-challenges/blob/main/leetcode/medium/insert-into-a-binary-search-tree.js) - [Medium](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
 - [Best Time to Buy and Sell Stock](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/best-time-to-buy-and-sell-stock.js) - [Easy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [Reverse Linked List](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/reverse-linked-list.js) - [Easy](https://leetcode.com/problems/reverse-linked-list/)
 - [Longest Common Prefix](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/longest-common-prefix.js) - [Easy](https://leetcode.com/problems/longest-common-prefix/)
