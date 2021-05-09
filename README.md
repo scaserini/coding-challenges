@@ -23,6 +23,7 @@ My solutions to some coding challenges:
 - [Valid Parentheses](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/valid-parentheses.js) - [5 kyu](https://www.codewars.com/kata/52774a314c2333f0a7000688)
 - [Regex Password Validation](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/regex-password-validation.js) - [5 kyu](https://www.codewars.com/kata/52e1476c8147a7547a000811)
 - [Weight for weight](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/weight-for-weight.js) - [5 kyu](https://www.codewars.com/kata/55c6126177c9441a570000cc)
+- [Word Finder](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/word-finder.js) - [5 kyu](https://www.codewars.com/kata/525d8c20915a399b5600087b)
 
 ## leetcode
 
