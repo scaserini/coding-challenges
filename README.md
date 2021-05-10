@@ -28,6 +28,7 @@ My solutions to some coding challenges:
 - [All that is open must be closed...](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/all-that-is-open-must-be-closed.js) - [5 kyu](https://www.codewars.com/kata/55679d644c58e2df2a00009c)
 - [1's, 0's and wildcards](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/1-s-0-s-and-wildcards.js) - [5 kyu](https://www.codewars.com/kata/588f3e0dfa74475a2600002a)
 - [Where my anagrams at?](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/where-my-anagrams-at.js) - [5 kyu](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
+- [String insert values](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/string-insert-values.js) - [5 kyu](https://www.codewars.com/kata/529b54d9aba78c924d00088e)
 
 ## leetcode
 
