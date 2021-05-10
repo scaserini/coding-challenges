@@ -8,7 +8,7 @@ function isBalanced(s, caps) {
     // Opening caps, es '(' '[' '-', are in the even indx in the caps
     if (charIndx % 2 == 0) {
       stack.push(char);
-      if (areTheSameCap(stack, caps)) stack = stack.slice(0, -2);
+      if (shouldRemoveCaps(stack, caps)) stack = stack.slice(0, -2);
       continue;
     }
     // The char is a closing cap
@@ -21,7 +21,7 @@ function isBalanced(s, caps) {
   return stack.length == 0;
 }
 
-function areTheSameCap(stack, caps) {
+function shouldRemoveCaps(stack, caps) {
   const stackLen = stack.length;
   const lastChar = stack[stackLen - 1];
   // If the opening and closing caps are the same cap (es: '-', '@') the last two items in the stack are equal
