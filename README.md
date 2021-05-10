@@ -25,6 +25,7 @@ My solutions to some coding challenges:
 - [Weight for weight](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/weight-for-weight.js) - [5 kyu](https://www.codewars.com/kata/55c6126177c9441a570000cc)
 - [Word Finder](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/word-finder.js) - [5 kyu](https://www.codewars.com/kata/525d8c20915a399b5600087b)
 - [Find the unique string](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/find-the-unique-string.js) - [5 kyu](https://www.codewars.com/kata/585d8c8a28bc7403ea0000c3)
+- [All that is open must be closed...](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/all-that-is-open-must-be-closed.js) - [5 kyu](https://www.codewars.com/kata/55679d644c58e2df2a00009c)
 
 ## leetcode
 
