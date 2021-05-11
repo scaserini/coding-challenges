@@ -90,3 +90,4 @@ My solutions to some coding challenges:
 - [Longest Common Prefix](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/longest-common-prefix.js) - [Easy](https://leetcode.com/problems/longest-common-prefix/)
 - [Invert Binary Tree](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/invert-binary-tree.js) - [Easy](https://leetcode.com/problems/invert-binary-tree/)
 - [Split a String in Balanced Strings](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/split-a-string-in-balanced-strings.js) - [Easy](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
+- [Longest Word in Dictionary](https://github.com/scaserini/coding-challenges/blob/main/leetcode/easy/longest-word-in-dictionary.js) - [Easy](https://leetcode.com/problems/longest-word-in-dictionary/)
