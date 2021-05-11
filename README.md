@@ -19,6 +19,7 @@ My solutions to some coding challenges:
 - [Find all possible number combos that sum to a number](https://github.com/scaserini/coding-challenges/blob/main/codewars/4_kyu/find-all-possible-number-combos-that-sum-to-a-number.js) - [4 kyu](https://www.codewars.com/kata/555b1890a75b930e63000023)
 - [Sum of Intervals](https://github.com/scaserini/coding-challenges/blob/main/codewars/4_kyu/sum-of-intervals.js) - [4 kyu](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
 - [Range Extraction](https://github.com/scaserini/coding-challenges/blob/main/codewars/4_kyu/range-extraction.js) - [4 kyu](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)
+- [All Balanced Parentheses](https://github.com/scaserini/coding-challenges/blob/main/codewars/4_kyu/all-balanced-parentheses.js) - [4 kyu](https://www.codewars.com/kata/5426d7a2c2c7784365000783)
 - [Count IP Addresses](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/count-ip-addresses.js) - [5 kyu](https://www.codewars.com/kata/526989a41034285187000de4)
 - [Valid Parentheses](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/valid-parentheses.js) - [5 kyu](https://www.codewars.com/kata/52774a314c2333f0a7000688)
 - [Regex Password Validation](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/regex-password-validation.js) - [5 kyu](https://www.codewars.com/kata/52e1476c8147a7547a000811)
