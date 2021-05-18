@@ -33,6 +33,7 @@ My solutions to some coding challenges:
 - [String insert values](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/string-insert-values.js) - [5 kyu](https://www.codewars.com/kata/529b54d9aba78c924d00088e)
 - [Moving Zeros To The End](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/moving-zeros-to-the-end.js) - [5 kyu](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 - [Largest Difference in Increasing Indexes](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/largest-difference-in-increasing-indexes.js) - [5 kyu](https://www.codewars.com/kata/52503c77e5b972f21600000e)
+- [Directions Reduction](https://github.com/scaserini/coding-challenges/blob/main/codewars/5_kyu/directions-reduction.js) - [5 kyu](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 
 ## leetcode
 
